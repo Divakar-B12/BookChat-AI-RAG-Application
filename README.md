@@ -56,7 +56,7 @@ RAG-Project/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+https://github.com/Divakar-B12/BookChat-AI-RAG-Application.git
 cd <YOUR_PROJECT_DIRECTORY>
 ```
 
