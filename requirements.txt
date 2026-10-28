@@ -1,0 +1,32 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# OpenAI API
+langchain-openai
+openai
+
+# Mistral AI API
+langchain-mistralai
+mistralai
+
+# Vector database
+chromadb
+langchain-chroma
+
+# Embeddings and document processing
+sentence-transformers
+pypdf
+unstructured
+
+# Load environment variables
+python-dotenv
+
+
+langchain-groq
+
+
+langchain-huggingface
+sentence-transformers
