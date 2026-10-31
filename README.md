@@ -145,15 +145,6 @@ The Streamlit application can be deployed using [Streamlit Community Cloud](http
 
 Ensure that `requirements.txt` contains all required packages before deployment.
 
-## 📌 Future Improvements
-
-- Support additional document formats.
-- Add conversation export functionality.
-- Improve document source citations.
-- Add OCR support for scanned books.
-- Implement persistent cloud storage for uploaded documents.
-- Add user authentication and document management.
-
 ## 👨‍💻 Author
 
 **Divakar B**
